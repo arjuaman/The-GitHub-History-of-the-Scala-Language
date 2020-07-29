@@ -25,13 +25,24 @@ pull_files.csv contains the files that were modified by each pull request.
 The dataset includes the project history of Scala retrieved from Git and GitHub as a set of CSV files.
 
 ## Project Tasks
-1> Scala's real-world project repository data
-2> Preparing and cleaning the data
-3> Merging the DataFrames
-4> Is the project still actively maintained?
-5> Is there camaraderie in the project?
-6> What files were changed in the last ten pull requests?
-7> Who made the most pull requests to a given file?
-8> Who made the last ten pull requests on a given file?
-9> The pull requests of two special developers
-10> Visualizing the contributions of each developer
+1> Scala's real-world project repository data </br>
+2> Preparing and cleaning the data </br>
+3> Merging the DataFrames </br>
+4> Is the project still actively maintained?</br>
+5> Is there camaraderie in the project?</br>
+6> What files were changed in the last ten pull requests?</br>
+7> Who made the most pull requests to a given file?</br>
+8> Who made the last ten pull requests on a given file?</br>
+9> The pull requests of two special developers</br>
+10> Visualizing the contributions of each developer</br>
+
+## Observations
+
+1> Project activity: </br>
+![alt_text](https://github.com/arjuaman/The-GitHub-History-of-the-Scala-Language/blob/master/project_activity.png)
+
+2> Top 2 developers: </br>
+![alt_text](https://github.com/arjuaman/The-GitHub-History-of-the-Scala-Language/blob/master/socVSxeno.png)
+
+3> Recent activity of top 2 users: </br>
+![alt_text](https://github.com/arjuaman/The-GitHub-History-of-the-Scala-Language/blob/master/users_correct.png)
